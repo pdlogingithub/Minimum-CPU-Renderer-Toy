@@ -1,0 +1,7 @@
+﻿  RenderASphere.cpp
+d:\wor\blog\写一个渲染管线vs\renderasphere\renderasphere.cpp(16): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderasphere\renderasphere.cpp(938): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderasphere\renderasphere.cpp(939): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderasphere\renderasphere.cpp(1029): warning C4065: switch statement contains 'default' but no 'case' labels
+d:\wor\blog\写一个渲染管线vs\renderasphere\renderasphere.cpp(89): warning C4715: 'vec3uint::operator[]': not all control paths return a value
+  RenderASphere.vcxproj -> D:\wor\blog\写一个渲染管线VS\Debug\RenderASphere.exe

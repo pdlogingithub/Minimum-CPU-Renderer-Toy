@@ -1,0 +1,12 @@
+﻿  RenderACube.cpp
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(198): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(287): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(310): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(372): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(450): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(456): warning C4018: '<': signed/unsigned mismatch
+d:\wor\blog\写一个渲染管线vs\renderacube\renderacube.cpp(464): warning C4018: '<': signed/unsigned mismatch
+  RenderACube.vcxproj -> D:\wor\blog\写一个渲染管线VS\Debug\RenderACube.exe

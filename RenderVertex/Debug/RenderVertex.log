@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RenderVertex.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RenderAVertex.cpp
+d:\wor\blog\写一个渲染管线vs\rendervertex\renderavertex.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\rendervertex\renderavertex.cpp(138): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RenderVertex.vcxproj -> D:\wor\blog\写一个渲染管线VS\Debug\RenderAVertex.exe

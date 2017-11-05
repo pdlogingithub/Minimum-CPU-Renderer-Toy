@@ -1,0 +1,4 @@
+﻿  RenderATriangle.cpp
+d:\wor\blog\写一个渲染管线vs\renderatriangle\renderatriangle.cpp(239): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\wor\blog\写一个渲染管线vs\renderatriangle\renderatriangle.cpp(240): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RenderATriangle.vcxproj -> D:\wor\blog\写一个渲染管线VS\Debug\RenderATriangle.exe
